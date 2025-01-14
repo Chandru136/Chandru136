@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chandru136
+# 👋 Hi, I’m Chandru
 
 - 👀 I’m interested in **Full-Stack Development, Data Science, and solving complex programming challenges.**
 - 🌱 I’m currently learning **Angular, SQL, and honing my Data Structures & Algorithms (DSA) skills.**
