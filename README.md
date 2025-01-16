@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chandru
 
 <img alighn="right" width="370" heigth="290" src="https://github.com/user-attachments/assets/d63cc342-e81e-4012-aff5-d2d9058498e2">
-- 👀 I’m interested in **Full-Stack Development, Data Science, and solving complex programming challenges.**
+  - 👀 I’m interested in **Full-Stack Development, Data Science, and solving complex programming challenges.**
 - 🌱 I’m currently learning **Angular, SQL, and honing my Data Structures & Algorithms (DSA) skills.**
 - 💞️ I’m looking to collaborate on **open-source projects, innovative web and mobile app development, and cutting-edge data science applications.**
 - 📫 How to reach me:
