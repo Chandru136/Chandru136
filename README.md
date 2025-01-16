@@ -28,7 +28,7 @@
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/>
-  <img height="45" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Chan04?theme=dark&font=Martel%20Sans)
 <!---
