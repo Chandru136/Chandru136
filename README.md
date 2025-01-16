@@ -21,7 +21,7 @@
   <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 
-  ### Workspace
+  ### IDE and Tools I Use
   <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
@@ -29,7 +29,8 @@
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/>
   <img height="45" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  
+
+  ### Workspace desk
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Chan04?theme=dark&font=Martel%20Sans)
 
   [![Chandru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandru136&bg_color=d1e3ff&color=564c9e&line=4c5d9e&point=083535&area=true&hide_border=true)](https://github.com/chandru00710/github-readme-activity-graph)
