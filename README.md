@@ -22,6 +22,14 @@
   <img width="50" height="50" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 
   ### Workspace
+  <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/>
+  <img width="50" height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Chan04?theme=dark&font=Martel%20Sans)
 <!---
 Chandru136/Chandru136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
