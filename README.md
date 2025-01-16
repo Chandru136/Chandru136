@@ -21,7 +21,8 @@
   <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 
-
+  ### Workspace
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Chan04?theme=dark&font=Martel%20Sans)
 <!---
 Chandru136/Chandru136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
