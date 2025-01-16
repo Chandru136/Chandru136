@@ -26,6 +26,7 @@
   <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/>
   <img height="45" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
