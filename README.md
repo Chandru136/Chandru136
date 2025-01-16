@@ -13,6 +13,7 @@
 
   ### I code in
   <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1">
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
 
 
 <!---
