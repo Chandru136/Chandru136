@@ -20,6 +20,7 @@
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 
   ### IDE and Tools I Use
   <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
