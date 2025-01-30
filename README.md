@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning **Angular, SQL, and honing my Data Structures & Algorithms (DSA) skills.**
 - 💞️ I’m looking to collaborate on **open-source projects, innovative web and mobile app development, and cutting-edge data science applications.**
 - 📫 How to reach me:
-  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chandru4/) [<imf src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:chandru.cxx@gmail.com)
+  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chandru4/) <a href="mailto:chandru.cxx@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I’m a Gemini who loves coding, coffee, and exploring futuristic design concepts!**
