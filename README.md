@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Chandru
 
-<img align="right" width="370" heigth="250" src="https://github.com/user-attachments/assets/6e764bb6-9693-4da6-a423-65a415982014">
+<img align="right" width="370" heigth="250" alt="git1" src="https://github.com/user-attachments/assets/d1a8d1ec-bcdb-43f8-bdc0-dddfdf9b37c7" />
 
 
 - 👀 I’m interested in **Full-Stack Development, Data Science, and solving complex programming challenges.**
