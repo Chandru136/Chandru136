@@ -1,3 +1,5 @@
+![Boy Avatar - Code with Chan RGB GIF](https://github.com/user-attachments/assets/61218107-796c-406f-aece-f325f092edc5)
+
 # 👋 Hi, I’m Chandru
 
 <img align="right" width="370" heigth="250" alt="git1" src="https://github.com/user-attachments/assets/d1a8d1ec-bcdb-43f8-bdc0-dddfdf9b37c7" />
